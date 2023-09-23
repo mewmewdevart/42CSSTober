@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#">See the showcase of this challenge</a>
+  <a href="https://mewmewdevart.github.io/42CSSTober/">See the showcase of this challenge</a>
 </p>
 
 <p align="center">
