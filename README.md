@@ -33,8 +33,8 @@ Inspired by [Inktober](https://inktober.com/rules), 42CSSTober is a challenge cr
 ## List
 
 ## 📌 Showcase
-This initiative was created by students from 42 with the intention of developing web skills collectively, fostering creativity, and enhancing problem-solving abilities. The repository is not officially affiliated with 42, and external individuals are welcome to participate if they wish, but they will not be featured in the showcase. <br>
-To contribute and appear in the showcase, please read here on how to [CONTRIBUTING](CONTRIBUTING.md). The projects will be hosted in this repository and can be accessed by those who are curious to see the solutions created by the community.
+This 42 student initiative fosters web skill development, creativity, and problem-solving. To contribute and appear in the showcase, read [CONTRIBUTING](CONTRIBUTING.md).
+
 
 ## 🛠️ Usage/Tools
 
