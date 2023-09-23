@@ -57,7 +57,9 @@ a {
 }
 
 footer {
-	padding: 10px;
+	background-color: var(--varBGColor);
+	margin-top: 50px;
+	padding: 5px;
 	text-align: center;
 	position: sticky;
 	bottom: 0;
