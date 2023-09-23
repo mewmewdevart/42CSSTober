@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+	--varBGColor: #F7F5F2;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: var(--varBGColor);
+	margin: 0;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+.card-group {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 20px;
+	padding: 20px;
+}
+
+.card {
+	background-color:var(--varBGColor);
+	border: 2px solid #333;
+	border-radius: 5px;
+	padding: 30px;
+	text-align: center;
+}
+
+.card h2 {
+	color: #333;
+}
+
+.card p {
+	color: #666;
+}
+
+footer {
+	padding: 10px;
+	text-align: center;
+	position: sticky;
+	bottom: 0;
+}
+
+@media (max-width: 768px) {
+	.card {
+		flex: 0 0 calc(50% - 20px);
+		max-width: calc(50% - 20px);
+	}
+}
