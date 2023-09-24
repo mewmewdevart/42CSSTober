@@ -29,19 +29,15 @@ The challenge involves creating a mini-illustration each day based on the design
 
 **+Bonus List** ⭐ : <br> In this list, you will have to create the illustration using just one ```<div>```. Utilizing the properties ::before, ::after, and clip-path can help you.
 
-| Day  | Theme         |
-|----:|--------------|
-|   01 | The meaning of life, the universe, and everything        |
-|   02 | Algorithm    |
-|   03 | The Hitchhiker's Guide to the Galaxy     |
-|   04 | Towel       |
-|   05 | Dolphins   |
-|   06 | Open Source       |
-|   07 | Norminette       |
-|   08 | Artificial Intelligence       |
-|   09 | Bocal      |
-|  10 | Community      |
-|  11 | ft_transcendence       |
+| Day  | ⭐ Theme                                       | Day  | ⭐ Theme                        |
+|----:|------------------------------------------|----:|---------------------------|
+|   01 | The meaning of life, the universe, and everything |   07 | Norminette                   |
+|   02 | Algorithm                                  |   08 | Artificial Intelligence       |
+|   03 | The Hitchhiker's Guide to the Galaxy       |   09 | Bocal                        |
+|   04 | Towel                                      |  10 | Community                    |
+|   05 | Dolphins                                   |  11 | ft_transcendence             |
+|   06 | Open Source                                |                                 |
+
 
 
 ### 📝 Rules 
