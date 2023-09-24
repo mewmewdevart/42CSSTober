@@ -16,6 +16,9 @@
 	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/42CSSTober?color=6272a4"/>
 </p>
 
+<p align="center">
+ 📌 Please, read the entire readme before starting the challenge.
+</p>
 
 ## Challenge 🚀💫
 Inspired by [Inktober](https://inktober.com/rules). 42CSSTober is a challenge created by @larcrist for the 42 Ecole Community[Unnoficial event] to improve your coding skills by creating daily mini-illustrations primarily using HTML5 and CSS3. <br><br>
