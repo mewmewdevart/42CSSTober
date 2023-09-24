@@ -55,6 +55,7 @@ This is an initiative created for the community with the intention of helping yo
 Feel free to open an issue for bugs or suggestions.
 
 ## 📎 References 
+- [Github Pages](https://mewmewdevart.github.io/42CSSTober/) | Documentation on how to host a webpage on GitHub
 - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) | How to create geometric shapes with CSS
 - [Extension: Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | A VSCode extension that allows you to start a local server directly from VSCode to test your website or web application. It automatically refreshes the page in the browser when you make code changes.
 - [CSS Battle](https://cssbattle.dev/) | If you want to practice offline, this website offers daily challenges to help you further improve your skills.
