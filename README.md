@@ -21,7 +21,25 @@
 Inspired by [Inktober](https://inktober.com/rules). 42CSSTober is a challenge created by @larcrist for the 42 Ecole Community[Unnoficial event] to improve your coding skills by creating daily mini-illustrations primarily using HTML5 and CSS3. <br><br>
 The challenge involves creating a mini-illustration each day based on the designated theme for that day and your interpretation of it over the course of 31 days in October, +11 Bonus Days, for a total of 42 illustrations crafted with CSS.
 
-## List
+## 🎨 List
+**Mandatory List**:
+
+**+Bonus List** ⭐ : <br> In this list, you will have to create the illustration using just one ```<div>```. Utilizing the properties ::before, ::after, and clip-path can help you.
+
+| Day  | Theme         |
+|----:|--------------|
+|   01 | The meaning of life, the universe, and everything        |
+|   02 | Algorithm    |
+|   03 | The Hitchhiker's Guide to the Galaxy     |
+|   04 | Towel       |
+|   05 | Dolphins   |
+|   06 | Open Source       |
+|   07 | Norminette       |
+|   08 | Artificial Intelligence       |
+|   09 | Bocal      |
+|  10 | Community      |
+|  11 | ft_transcendence       |
+
 
 ### 📝 Rules 
 - Don't be a jerk. Be respectful. Don't draw offensive things!
