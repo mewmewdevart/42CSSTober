@@ -1,5 +1,5 @@
 <h1 align="center">
-42CSSTober (In development)
+42CSSTober
 </h1>
 
 <p align="center">
