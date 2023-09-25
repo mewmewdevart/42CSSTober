@@ -21,38 +21,53 @@
 </p>
 
 ## Challenge 🚀💫
-Inspired by [Inktober](https://inktober.com/rules). 42CSSTober is a challenge created by @larcrist for the 42 Ecole Community[Unnoficial event] to improve your coding skills by creating daily mini-illustrations primarily using HTML5 and CSS3. <br><br>
+Inspired by [Inktober](https://inktober.com/rules), 42CSSTober is a challenge created by @larcrist for the 42 Ecole Community (Unofficial event) to improve your coding skills by creating daily mini-illustrations primarily using HTML5 and CSS3.
+
 The challenge involves creating a mini-illustration each day based on the designated theme for that day and your interpretation of it over the course of 31 days in October, +11 Bonus Days, for a total of 42 illustrations crafted with CSS.
 
 ## 🎨 List
-**Mandatory List**:
+**Mandatory List**: <br>
+A CSS drawing per day, based on the theme of the list.
 
-**+Bonus List** ⭐ : <br> In this list, you will have to create the illustration using just one ```<div>```. Utilizing the properties ::before, ::after, and clip-path can help you.
+| Day  | Theme      | Day  | Theme      | Day  | Theme      |
+| ---- | ---------- | ---- | ---------- | ---- | ---------- |
+| 01   | emoji      | 11   | creature   | 21   | folklore   |
+| 02   | parasite   | 12   | planet     | 22   | energy     |
+| 03   | geek       | 13   | amethyst   | 23   | DNA        |
+| 04   | rainbow    | 14   | halloween  | 24   | adventure  |
+| 05   | poisonous  | 15   | hot        | 25   | ruby       |
+| 06   | gold       | 16   | hypnotic   | 26   | fear       |
+| 07   | virus      | 17   | silicon    | 27   | big        |
+| 08   | universe   | 18   | ghost      | 28   | music      |
+| 09   | cosmos     | 19   | star       | 29   | mythical   |
+| 10   | dream      | 20   | carbon     | 30   | trap       |
+|      |            |      |            | 31.  | robot      |
 
-| Day  | ⭐ Theme                                       | Day  | ⭐ Theme                        |
-|----:|------------------------------------------|----:|---------------------------|
-|   01 | The meaning of life, the universe, and everything |   07 | Norminette                   |
-|   02 | Algorithm                                  |   08 | Artificial Intelligence       |
-|   03 | The Hitchhiker's Guide to the Galaxy       |   09 | Bocal                        |
-|   04 | Towel                                      |  10 | Community                    |
-|   05 | Dolphins                                   |  11 | ft_transcendence             |
-|   06 | Open Source                                |                                 |
+**+Bonus List** ⭐ : <br>
+In this list, you will have to create the illustration using just one `<div>`. Utilizing the properties ::before, ::after, and clip-path can help you.
 
+| Day  | ⭐ Theme                                       | Day  | ⭐ Theme                |
+| ---- | --------------------------------------------- | ---- | ----------------------- |
+| 01   | The meaning of life, the universe, and everything | 07   | Norminette             |
+| 02   | Algorithm                                    | 08   | Artificial Intelligence |
+| 03   | The Hitchhiker's Guide to the Galaxy         | 09   | Bocal                  |
+| 04   | Towel                                        | 10   | Community              |
+| 05   | Dolphins                                     | 11   | ft_transcendence       |
+| 06   | Open Source                                  |      |                        |
 
-
-### 📝 Rules 
+### 📝 Rules
 - Don't be a jerk. Be respectful. Don't draw offensive things!
 - Use only CSS, HTML, and maybe JS to create your artwork; no external files like SVG, PNG, or JPG are allowed. Do everything manually, without external imports or shortcuts.
 - Ensure your art is responsive.
 - Keep your project organized with a GitHub repository, with a cool readme, and host the challenges using GitHub Pages to add in the showcase part 👇.
-- Share your results on social media with #42CSSTober hashtag.
+- Share your results on social media with #42CSSTober hashtag (If you are going to post on [LinkedIn](https://www.linkedin.com/in/mewmewdevart/), tag me).
 - 31 + 11 = 42: As a bonus, we've added an additional +11 challenges to the list. These challenges should be developed using only one `<div>` (or whatever element you want) along with its `::before` and `::after` pseudo-elements.
 - Have fun! There's no need to follow a strict schedule; you can create daily, adopt an alternate creation rhythm (every other day), or even do a "5K run" or create once a week. The key is to maintain consistency. The goal of 42CSSTober is to grow, improve, and develop positive habits while gaining a deeper understanding of CSS properties.
 
 ❗️ | A basic understanding of HTML and CSS syntax is recommended, but if you don't have it, it's a good opportunity to learn!
 
 ## 📌 Showcase
-This is an initiative created for the community with the intention of helping you learn HTML and CSS skills and problem-solving through daily coding challenges. <br> A web page has been created for you to showcase your solutions to the community.  <br> Read how to contribute to the showcase in [CONTRIBUTING](CONTRIBUTING.md).
+This is an initiative created for the community with the intention of helping you learn HTML and CSS skills and problem-solving through daily coding challenges. A web page has been created for you to showcase your solutions to the community. <br> Read how to contribute to the showcase in [CONTRIBUTING](CONTRIBUTING.md).
 
 ## 🛠️ Usage/Tools
 - Computer: Desktop, laptop, etc.
@@ -84,6 +99,4 @@ Feel free to open an issue for bugs or suggestions.
 ## License
 This project is released under the MIT license. [Learn more](LICENSE).
 
-<p align="center">
-	Developed by cadets for cadets.
-</p>
+<p align="center"> Developed by cadets for cadets. </p>
