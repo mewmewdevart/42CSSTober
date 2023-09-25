@@ -31,17 +31,17 @@ A CSS drawing per day, based on the theme of the list.
 
 | Day  | Theme      | Day  | Theme      | Day  | Theme      |
 | ---- | ---------- | ---- | ---------- | ---- | ---------- |
-| 01   | emoji      | 11   | creature   | 21   | folklore   |
-| 02   | parasite   | 12   | planet     | 22   | energy     |
-| 03   | geek       | 13   | amethyst   | 23   | DNA        |
-| 04   | rainbow    | 14   | halloween  | 24   | adventure  |
-| 05   | poisonous  | 15   | hot        | 25   | ruby       |
-| 06   | gold       | 16   | hypnotic   | 26   | fear       |
-| 07   | virus      | 17   | silicon    | 27   | big        |
-| 08   | universe   | 18   | ghost      | 28   | music      |
-| 09   | cosmos     | 19   | star       | 29   | mythical   |
-| 10   | dream      | 20   | carbon     | 30   | trap       |
-|      |            |      |            | 31.  | robot      |
+| 01   | Emoji      | 11   | Creature   | 21   | Folklore   |
+| 02   | Parasite   | 12   | Planet     | 22   | Energy     |
+| 03   | Geek       | 13   | Amethyst   | 23   | DNA        |
+| 04   | Rainbow    | 14   | Halloween  | 24   | Adventure  |
+| 05   | Poisonous  | 15   | Hot        | 25   | Ruby       |
+| 06   | Gold       | 16   | Hypnotic   | 26   | Fear       |
+| 07   | Virus      | 17   | Silicon    | 27   | Big        |
+| 08   | Universe   | 18   | Ghost      | 28   | Music      |
+| 09   | Cosmos     | 19   | Star       | 29   | Mythical   |
+| 10   | Dream      | 20   | Carbon     | 30   | Trap       |
+|      |            |      |            | 31  | Robot      |
 
 **+Bonus List** ⭐ : <br>
 In this list, you will have to create the illustration using just one `<div>`. Utilizing the properties ::before, ::after, and clip-path can help you.
