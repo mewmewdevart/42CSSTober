@@ -81,7 +81,7 @@ This is an initiative created for the community with the intention of helping yo
 #### Silver Tip!
 - Create a simple sketch of the drawing you intend to create; this will provide you with a better understanding of which CSS properties need to be applied in the project.
 - Maintain organization in your files.
-- If you reference external illustrations, be sure to credit the artist in your project's Readme.
+- If you reference external illustrations, be sure to credit the artist in your project's Readme. 
 
 ## ⚠️ Issues
 Feel free to open an issue for bugs or suggestions.
