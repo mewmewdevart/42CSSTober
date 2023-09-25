@@ -14,10 +14,8 @@ This is a completely open project that accepts contributions through pull reques
 3. Open the `index.html` file in your fork.
 4. Locate the following section:
    ```html
-   <!--
-   	Copy the information inside <a> until </a> and input your ID and the location of your 42 school
-		📌 If you are not a student at 42 school, please provide your GitHub ID and your country.
-   -->
+   <!-- Copy the information inside <a> until </a> and input your ID and the location of your 42 school
+	📌 If you are not a student at 42 school, please provide your GitHub ID and your country. -->
    <a href="https://github.com/mewmewdevart/42EventCSSTober" target="_blank" class="card">
        <h2>Larcrist</h2>
        <p>42 São Paulo</p>
